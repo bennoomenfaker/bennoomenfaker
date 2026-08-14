@@ -5,11 +5,11 @@
 
 # Faker BEN NOOMEN
 
-#### `Full-Stack Engineer` · `Veille & Intelligence Compétitive` · `Data & IA`
+#### `Développeur Full Stack` · `Veille & Intelligence Compétitive` · `Data & IA`
 
 <img src="https://img.shields.io/badge/-Combiner%20expertise%20technique%20et%20vision%20strat%C3%A9gique%20pour%20innover-0d1117?style=flat-square&labelColor=0d1117&color=6366f1" alt="tagline"/>
 
-<img src="https://readme-typing-svg.demolab.com/?lines=Full-Stack+Engineer;Veille+%26+Intelligence+Comp%C3%A9titive;Data+%26+IA+appliqu%C3%A9e+%C3%A0+la+strat%C3%A9gie;Etudes+quantitatives+%26+Open+Source&font=Fira+Code&center=true&width=520&height=50&duration=2800&pause=800&color=06B6D4&vCenter=true" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com/?lines=D%C3%A9veloppeur+Full+Stack;Veille+%26+Intelligence+Comp%C3%A9titive;Data+%26+IA+appliqu%C3%A9e+%C3%A0+la+strat%C3%A9gie;Etudes+quantitatives+%26+Open+Source&font=Fira+Code&center=true&width=520&height=50&duration=2800&pause=800&color=06B6D4&vCenter=true" alt="Typing SVG"/>
 
 <br/>
 
@@ -26,7 +26,7 @@
 
 ```ts
 const faker = {
-  role:      "Full-Stack Engineer",
+  role:      "Développeur Full Stack",
   location:  "🇹🇳 Tunis, Tunisie",
   focus:     ["Plateformes web", "Veille & Intelligence Compétitive", "Data & IA"],
   loves:     ["NestJS", "React", "Spring Boot", "Machine Learning", "Open Source"],
@@ -80,7 +80,7 @@ Ma signature : **ne pas croire les données sur parole**. Dans l'étude Startup 
   <tr>
     <td align="center" width="120"><b>Frontend</b></td>
     <td align="left">
-      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,vite&theme=dark" alt="frontend"/></a>
+      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=react,nextjs,reactnative,redux,tailwind,vite&theme=dark" alt="frontend"/></a>
     </td>
   </tr>
   <tr>
