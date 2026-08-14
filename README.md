@@ -44,7 +44,7 @@ Analyse complète des **85 sessions de labellisation** du programme Startup Act 
 
 - 🌐 **App en ligne** : https://vic-esen-iscae-2026-startup-act.onrender.com/
 - 💻 **Code source** : https://github.com/bennoomenfaker/vic-2026-startup-act
-- 🛠️ **Stack** : Python · Streamlit · Chart.js · Leaflet · Docker · GitHub Actions
+- 🛠️ **Stack** : Python · Chart.js · Leaflet · GitHub Actions · Render
 
 ---
 
