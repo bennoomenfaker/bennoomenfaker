@@ -17,6 +17,7 @@
   <a href="https://linkedin.com/in/fakerbennoomen"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://github.com/bennoomenfaker"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
   <a href="mailto:fakerbennoomen@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://bennoomenfaker.github.io"><img src="https://img.shields.io/badge/Site%20web-06B6D4?style=for-the-badge&logo=githubpages&logoColor=white" alt="Site web"/></a>
 </p>
 
 </div>
@@ -36,8 +37,9 @@ const faker = {
 };
 ```
 
-- 🎓 Mastère Professionnel **VIC — Veille & Intelligence Compétitive** (ESEN Manouba × ISCAE Manouba)
-- 🎓 Mastère **DDS — Digitalisation des Services** (ESSECT Tunis) · Licence **E-Business**
+- 🎓 **M2 Mastère Professionnel VIC — Veille & Intelligence Compétitive** (2026 → 2027 · ESEN Manouba × ISCAE Manouba)
+- 🎓 M1 Mastère Professionnel VIC (2025 → 2026) · Mastère **DDS** (ESSECT Tunis) · Licence **E-Business**
+- 🌐 Portfolio : [bennoomenfaker.github.io](https://bennoomenfaker.github.io) · [Repo du site](https://github.com/bennoomenfaker/bennoomenfaker.github.io)
 - 💼 Expériences : Hôpital Habib Thameur (maintenance prédictive ML), ISIMS Sfax, BIAT
 - 💬 Demandez-moi : **TypeScript, NestJS, Next.js, React, Spring Boot, Machine Learning**
 - 🤝 Soutenu par l'**ATVIC** — Association Tunisienne de Veille et Intelligence Compétitive
@@ -192,6 +194,7 @@ $ whoami
 <a href="https://linkedin.com/in/fakerbennoomen"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="https://github.com/bennoomenfaker"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 <a href="mailto:fakerbennoomen@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<a href="https://bennoomenfaker.github.io"><img src="https://img.shields.io/badge/Site%20web-06B6D4?style=for-the-badge&logo=githubpages&logoColor=white" alt="Site web"/></a>
 
 <small>**Contexte académique** · [ESEN Manouba](https://esen.rnu.tn/portail/) · [ISCAE Manouba](https://iscae.rnu.tn/fr) · [ATVIC](https://atvic.wordpress.com/)</small>
 
