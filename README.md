@@ -46,6 +46,8 @@ Analyse complète des **85 sessions de labellisation** du programme Startup Act 
 - 💻 **Code source** : https://github.com/bennoomenfaker/vic-2026-startup-act
 - 🛠️ **Stack** : Python · Chart.js · Leaflet · GitHub Actions · Render
 
+[![Aperçu — Startup Act Tunisie](images/screenshot-startup-act.png)](https://vic-esen-iscae-2026-startup-act.onrender.com/)
+
 ---
 
 ### 🤖 Plateforme de veille stratégique augmentée par l'IA
@@ -57,6 +59,8 @@ Plateforme complète de **veille stratégique** (technologique, concurrentielle,
 - 🌐 **App en ligne** : http://91.134.139.163:8080/
 - 💻 **Code source** : https://github.com/bennoomenfaker/Plateforme-de-veille-strat-gique-augment-e-par-l-IA
 - 🛠️ **Stack** : React 19 · Vite · Tailwind · NestJS · Prisma · PostgreSQL 15 · Ollama · Docker
+
+[![Aperçu — VeilleAI](images/screenshot-veille.png)](http://91.134.139.163:8080/)
 
 ---
 
