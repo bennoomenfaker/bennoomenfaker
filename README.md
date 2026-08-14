@@ -1,123 +1,174 @@
-<p align="center">
-  <img src="images/faker.jpeg" width="140" style="border-radius:50%" alt="Faker BEN NOOMEN"/>
+<!-- ====================== HEADER ====================== -->
+<div align="center">
+
+<img src="images/faker.jpeg" width="120" style="border-radius:50%" alt="Faker BEN NOOMEN"/>
+
+# Faker BEN NOOMEN
+
+#### `Full-Stack Engineer` · `Veille & Intelligence Compétitive` · `Data & IA`
+
+<img src="https://img.shields.io/badge/-Combiner%20expertise%20technique%20et%20vision%20strat%C3%A9gique%20pour%20innover-0d1117?style=flat-square&labelColor=0d1117&color=6366f1" alt="tagline"/>
+
+<br/>
+
+<p>
+  <a href="https://linkedin.com/in/fakerbennoomen"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://github.com/bennoomenfaker"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+  <a href="mailto:fakerbennoomen@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
 
-# 👋 Salam, moi c'est **Faker BEN NOOMEN**
+</div>
 
-<p align="center">
-  <b>Développeur Full-Stack</b> · Étudiant en <b>Veille & Intelligence Compétitive</b> (Master VIC — ESEN Manouba × ISCAE Manouba)
-</p>
+<!-- ====================== ABOUT ====================== -->
+## 👋 À propos
 
-<p align="center">
-  <a href="https://linkedin.com/in/fakerbennoomen"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/bennoomenfaker"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="mailto:fakerbennoomen@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/Tunisie-🇹🇳-E70013?style=for-the-badge"/>
-</p>
+```ts
+const faker = {
+  role:      "Full-Stack Engineer",
+  location:  "🇹🇳 Tunis, Tunisie",
+  focus:     ["Plateformes web", "Veille & Intelligence Compétitive", "Data & IA"],
+  loves:     ["NestJS", "React", "Spring Boot", "Machine Learning", "Open Source"],
+  currently: "Master VIC — Veille & Intelligence Compétitive (ESEN Manouba × ISCAE Manouba)",
+  motto:     "Build it clean, ship it fast, scale it right.",
+};
+```
 
----
+- 🎓 Mastère Professionnel **VIC — Veille & Intelligence Compétitive** (ESEN Manouba × ISCAE Manouba)
+- 🎓 Mastère **DDS — Digitalisation des Services** (ESSECT Tunis) · Licence **E-Business**
+- 💼 Expériences : Hôpital Habib Thameur (maintenance prédictive ML), ISIMS Sfax, BIAT
+- 💬 Demandez-moi : **TypeScript, NestJS, Next.js, React, Spring Boot, Machine Learning**
 
-## 🌟 À propos
+<!-- ====================== TECH STACK ====================== -->
+## 🛠️ Tech Stack
 
-Étudiant passionné par la **transformation digitale**, je poursuis actuellement un **Master Professionnel en Veille et Intelligence Compétitive** à l'**ESEN Manouba**. Titulaire d'un Master en Informatique de Gestion (**Digitalisation des Services**) et d'une Licence en **e-Business**, je combine une expertise technique en développement (**NestJS, React, Spring Boot**) et une vision stratégique de l'innovation pour concevoir des solutions performantes et intelligentes.
+<table align="left">
+  <tr>
+    <td align="center" width="120"><b>Languages</b></td>
+    <td align="left">
+      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=ts,js,python,java&theme=dark" alt="languages"/></a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="120"><b>Frontend</b></td>
+    <td align="left">
+      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,vite&theme=dark" alt="frontend"/></a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="120"><b>Backend</b></td>
+    <td align="left">
+      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,spring,prisma,fastapi&theme=dark" alt="backend"/></a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="120"><b>Databases</b></td>
+    <td align="left">
+      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql&theme=dark" alt="databases"/></a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="120"><b>AI / Data</b></td>
+    <td align="left">
+      <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" alt="Streamlit" height="28"/>
+      <img src="https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white" alt="Ollama" height="28"/>
+      <img src="https://img.shields.io/badge/Mistral-3B82F6?style=flat-square&logo=openai&logoColor=white" alt="Mistral" height="28"/>
+      <img src="https://img.shields.io/badge/Web%20Scraping-2496ED?style=flat-square&logo=python&logoColor=white" alt="Web Scraping" height="28"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="120"><b>DevOps</b></td>
+    <td align="left">
+      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=docker,githubactions,linux,git&theme=dark" alt="devops"/></a>
+    </td>
+  </tr>
+</table>
 
-Je construis des applications web complètes — du backend à l'interface — et des **plateformes de veille augmentées par l'IA** (collecte, enrichissement, visualisation d'insights stratégiques).
+<br clear="all"/>
 
----
-
+<!-- ====================== PROJECTS ====================== -->
 ## 🚀 Projets phares
+
+```bash
+$ git log --author="bennoomenfaker" --oneline --shortstat
+★  vic-2026-startup-act      étude quantitative des 85 sessions de labellisation Startup Act (2019-2026)
+★  veille-stratégique-ia     plateforme de veille stratégique augmentée par l'IA (Ollama / Mistral / Groq)
+```
+
+<div align="center">
+
+[`vic-2026-startup-act`](https://github.com/bennoomenfaker/vic-2026-startup-act) · [`veille-ia`](https://github.com/bennoomenfaker/Plateforme-de-veille-strat-gique-augment-e-par-l-IA)
+
+</div>
 
 ### 🇹🇳 Étude Quantitative — Startup Act Tunisie (2019-2026)
 
-Analyse complète des **85 sessions de labellisation** du programme Startup Act tunisien (Loi 2018-20), des rapports annuels et du parcours **prélabel → label**, avec une **veille comparative internationale** de l'écosystème tunisien (StartupBlink).
-
-| 📊 Chiffres clés | |
-|---|---|
-| Candidatures | **2 958** |
-| Labels accordés | **1 311** |
-| Prélabels | **623** |
-| Conversions prélabel → label | **502 (80,6 %)** |
-| Retraits de labels | **140** |
+Analyse des **85 sessions de labellisation** (Loi 2018-20), rapports annuels, parcours **prélabel → label** et **veille comparative internationale** (StartupBlink). **2 958 candidatures · 1 311 labels · 623 prélabels · 502 conversions (80,6 %)**.
 
 [![CI — Validate & Test](https://github.com/bennoomenfaker/vic-2026-startup-act/actions/workflows/ci.yml/badge.svg)](https://github.com/bennoomenfaker/vic-2026-startup-act/actions)
 [![Déployée](https://img.shields.io/badge/D%C3%A9ploy%C3%A9e-ONLINE-2ea44f?style=flat-square)](https://vic-esen-iscae-2026-startup-act.onrender.com/)
 
-- 🌐 **App en ligne** : https://vic-esen-iscae-2026-startup-act.onrender.com/
-- 💻 **Code source** : https://github.com/bennoomenfaker/vic-2026-startup-act
-- 🛠️ **Stack** : Python · Chart.js · Leaflet · GitHub Actions · Render
-
 [![Aperçu — Startup Act Tunisie](images/screenshot-startup-act.png)](https://vic-esen-iscae-2026-startup-act.onrender.com/)
 
----
+**Stack** : Python · Chart.js · Leaflet · GitHub Actions · Render
 
 ### 🤖 Plateforme de veille stratégique augmentée par l'IA
 
-Plateforme complète de **veille stratégique** (technologique, concurrentielle, réglementaire…) : définition d'objectifs, axes et hypothèses, **collecte multi-sources** (RSS, Web, API, PDF), **enrichissement IA** avec pipeline multi-modèle (Ollama / Mistral / Groq en fallback), **évaluation des hypothèses** et visualisation des insights (dashboard, ReactFlow, Kanban).
+Veille (technologique, concurrentielle, réglementaire…) : objectifs, axes et hypothèses, **collecte multi-sources** (RSS, Web, API, PDF), **enrichissement IA** multi-modèle (Ollama / Mistral / Groq en fallback), évaluation des hypothèses et visualisation des insights (dashboard, ReactFlow, Kanban).
 
 [![Déployée](https://img.shields.io/badge/D%C3%A9ploy%C3%A9e-ONLINE-2ea44f?style=flat-square)](http://91.134.139.163:8080/)
 
-- 🌐 **App en ligne** : http://91.134.139.163:8080/
-- 💻 **Code source** : https://github.com/bennoomenfaker/Plateforme-de-veille-strat-gique-augment-e-par-l-IA
-- 🛠️ **Stack** : React 19 · Vite · Tailwind · NestJS · Prisma · PostgreSQL 15 · Ollama · Docker
-
 [![Aperçu — VeilleAI](images/screenshot-veille.png)](http://91.134.139.163:8080/)
 
----
+**Stack** : React 19 · Vite · Tailwind · NestJS · Prisma · PostgreSQL 15 · Ollama · Docker
 
-## 🛠️ Compétences
+<!-- ====================== STATS ====================== -->
+## 📊 GitHub Stats
 
-**Backend** — NestJS (TypeScript) · Node.js · Express · Spring Boot · Spring Cloud · FastAPI
+<div align="center">
 
-**Frontend** — React · Redux Toolkit · Next.js · Streamlit
+<img src="https://streak-stats.demolab.com?user=bennoomenfaker&theme=tokyonight&hide_border=true&background=0d1117&ring=06b6d4&fire=06b6d4&currStreakLabel=06b6d4" alt="streak"/>
 
-**Bases de données** — PostgreSQL · MongoDB · MySQL · TypeORM · JPA/Hibernate · Prisma
+</div>
 
-**Data & IA** — Machine Learning (supervisé, régression, classification) · Web Scraping · Analyse de données · Veille augmentée par IA
+<!-- ====================== CONTRIBUTIONS ====================== -->
+## 🐍 Contribution Graph
 
-**Outils** — Docker · Docker Compose · Git · GitHub Actions · Cloudinary
+<div align="center">
 
-<p align="center">
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bennoomenfaker/bennoomenfaker/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bennoomenfaker/bennoomenfaker/output/github-contribution-grid-snake.svg"/>
+  <img alt="snake animation" src="https://raw.githubusercontent.com/bennoomenfaker/bennoomenfaker/output/github-contribution-grid-snake.svg"/>
+</picture>
 
----
+</div>
 
-## 🎓 Formation
+<!-- ====================== QUOTE ====================== -->
+<div align="center">
 
-- 🎓 **2025 → 2026 (en cours)** — Mastère Professionnel **VIC — Veille & Intelligence Compétitive**, ESEN Manouba × ISCAE Manouba
-- 🎓 **2024 → 2025** — Mastère (M2) **DDS — Digitalisation des Services**, ESSECT Tunis
-- 🎓 **2023 → 2024** — Master (M1) **IGP — Innovation & Gestion de Projet**, ISIMS Sfax
-- 🎓 **2020 → 2023** — Licence **Informatique de Gestion (E-Business)**, ESSECT Tunis
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light"/>
+  <img alt="quote" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+</picture>
 
----
+</div>
 
-## 💼 Expérience
+<!-- ====================== FOOTER ====================== -->
+## 🤝 Restons en contact
 
-- **PFE — Développeur Full-Stack** · Hôpital Habib Thameur, Tunis _(mars → juin 2025)_
-  Plateforme de gestion des équipements médicaux : suivi opérationnel et **maintenance prédictive basée sur le Machine Learning**. Stack : Java Spring Boot, Spring Cloud, MongoDB, React/Redux, JWT.
+```bash
+$ echo "Construisons quelque chose de grand ensemble 🚀"
+$ whoami
+> faker-bennoomen · ouvert aux collaborations, open-source & idées SaaS
+```
 
-- **PFA — Développement Web & Gestion de Projet** · ISIMS Sfax _(févr. → mai 2024)_
-  Application de gestion de tâches avec **NestJS** (backend) et TypeScript pour optimiser le suivi des projets d'équipe.
+<div align="center">
 
-- **PFE de Licence — Développement Web** · BIAT, Tunis _(févr. → mai 2023)_
-  Application web de gestion des incidents.
+<a href="https://linkedin.com/in/fakerbennoomen"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://github.com/bennoomenfaker"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+<a href="mailto:fakerbennoomen@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 
----
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,100:6366f1&height=120&section=footer" alt="footer"/>
 
-## 📫 Contact
-
-- 💼 [LinkedIn](https://linkedin.com/in/fakerbennoomen)
-- 💻 [GitHub](https://github.com/bennoomenfaker)
-- 📧 fakerbennoomen@gmail.com
-- 📞 +216 28 409 478
-
----
-
-<p align="center"><i>© 2026 Faker BEN NOOMEN — Toujours en train de construire, d'apprendre et d'innover.</i></p>
+</div>
