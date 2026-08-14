@@ -39,6 +39,7 @@ const faker = {
 - 🎓 Mastère **DDS — Digitalisation des Services** (ESSECT Tunis) · Licence **E-Business**
 - 💼 Expériences : Hôpital Habib Thameur (maintenance prédictive ML), ISIMS Sfax, BIAT
 - 💬 Demandez-moi : **TypeScript, NestJS, Next.js, React, Spring Boot, Machine Learning**
+- 🤝 Soutenu par l'**ATVIC** — Association Tunisienne de Veille et Intelligence Compétitive
 
 <!-- ====================== KEY FIGURES ====================== -->
 ## 📈 Veille & Data en chiffres
@@ -193,6 +194,8 @@ $ whoami
 <a href="https://linkedin.com/in/fakerbennoomen"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="https://github.com/bennoomenfaker"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 <a href="mailto:fakerbennoomen@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+
+<small>**Contexte académique** · [ESEN Manouba](https://esen.rnu.tn/portail/) · [ISCAE Manouba](https://iscae.rnu.tn/fr) · [ATVIC](https://atvic.wordpress.com/)</small>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,100:6366f1&height=120&section=footer" alt="footer"/>
 
