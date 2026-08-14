@@ -9,6 +9,8 @@
 
 <img src="https://img.shields.io/badge/-Combiner%20expertise%20technique%20et%20vision%20strat%C3%A9gique%20pour%20innover-0d1117?style=flat-square&labelColor=0d1117&color=6366f1" alt="tagline"/>
 
+<img src="https://readme-typing-svg.demolab.com/?lines=Full-Stack+Engineer;Veille+%26+Intelligence+Comp%C3%A9titive;Data+%26+IA+appliqu%C3%A9e+%C3%A0+la+strat%C3%A9gie;Etudes+quantitatives+%26+Open+Source&font=Fira+Code&center=true&width=520&height=50&duration=2800&pause=800&color=06B6D4&vCenter=true" alt="Typing SVG"/>
+
 <br/>
 
 <p>
@@ -37,6 +39,33 @@ const faker = {
 - 🎓 Mastère **DDS — Digitalisation des Services** (ESSECT Tunis) · Licence **E-Business**
 - 💼 Expériences : Hôpital Habib Thameur (maintenance prédictive ML), ISIMS Sfax, BIAT
 - 💬 Demandez-moi : **TypeScript, NestJS, Next.js, React, Spring Boot, Machine Learning**
+
+<!-- ====================== KEY FIGURES ====================== -->
+## 📈 Veille & Data en chiffres
+
+<div align="center">
+
+| | | |
+|---|---|---|
+| <img src="https://img.shields.io/badge/Sessions%20analys%C3%A9es-85-06b6d4?style=for-the-badge&labelColor=0d1117" alt="85 sessions"/> | <img src="https://img.shields.io/badge/Candidatures-2%C2%A0958-6366f1?style=for-the-badge&labelColor=0d1117" alt="2 958 candidatures"/> | <img src="https://img.shields.io/badge/Labels%20accord%C3%A9s-1%C2%A0311-2ea44f?style=for-the-badge&labelColor=0d1117" alt="1 311 labels"/> |
+| <img src="https://img.shields.io/badge/Pr%C3%A9labels-623-22c55e?style=for-the-badge&labelColor=0d1117" alt="623 prélabels"/> | <img src="https://img.shields.io/badge/Conversions%20pr%C3%A9label%20%E2%86%92%20label-80%2C6%25-fbbf24?style=for-the-badge&labelColor=0d1117" alt="80,6 % conversions"/> | <img src="https://img.shields.io/badge/Erreurs%20de%20donn%C3%A9es%20corrig%C3%A9es-20%20%2F%2085-ef4444?style=for-the-badge&labelColor=0d1117" alt="20/85 erreurs corrigées"/> |
+
+*Données vérifiées à partir des **PDF officiels** de `startup.gov.tn` — étude réalisée dans le cadre du Master VIC.*
+
+</div>
+
+<!-- ====================== APPROACH ====================== -->
+## 🧭 Mon approche : de la veille à la décision
+
+```
+ Données brutes      Collecte             Enrichissement         Insights             Décision
+ (sources réelles)   multi-sources        par IA                 & visualisation
+      │            (RSS · Web · API      (Ollama · Mistral      (dashboards ·
+      │             · PDF)                · Groq, fallback)      graphiques, maps)
+      ▼                ▼                      ▼                       ▼
+```
+
+Ma signature : **ne pas croire les données sur parole**. Dans l'étude Startup Act, j'ai détecté et corrigé **20 sessions erronées sur 85** à partir des PDF officiels — puis automatisé la vérification en CI. C'est ce que j'applique à chaque projet : collecter, corriger, enrichir par IA, et transformer en **tableaux de bord stratégiques** pour la prise de décision.
 
 <!-- ====================== TECH STACK ====================== -->
 ## 🛠️ Tech Stack
