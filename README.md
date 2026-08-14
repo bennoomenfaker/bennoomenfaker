@@ -31,7 +31,8 @@ const faker = {
   mission:   "Transformer la donnée en décision stratégique",
   focus:     ["Plateformes web", "Veille & Intelligence Compétitive", "Data & IA"],
   method:    "Collecter → Corriger → Enrichir (IA) → Décider",
-  motto:     "Données fiables, décisions éclairées.",
+  principe:  "Voir avant d'agir, vérifier avant de décider.",
+  motto:     "Données fiables, décisions éclairées — construire utile, innover en confiance.",
 };
 ```
 
@@ -40,6 +41,7 @@ const faker = {
 - 💼 Expériences : Hôpital Habib Thameur (maintenance prédictive ML), ISIMS Sfax, BIAT
 - 💬 Demandez-moi : **TypeScript, NestJS, Next.js, React, Spring Boot, Machine Learning**
 - 🤝 Soutenu par l'**ATVIC** — Association Tunisienne de Veille et Intelligence Compétitive
+- 🌱 En début de carrière : j'apprends, j'applique et j'avance chaque jour
 
 <!-- ====================== KEY FIGURES ====================== -->
 ## 📈 Veille & Data en chiffres
@@ -172,11 +174,7 @@ Veille (technologique, concurrentielle, réglementaire…) : objectifs, axes et 
 <!-- ====================== QUOTE ====================== -->
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light"/>
-  <img alt="quote" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
-</picture>
+> *« Je ne perds jamais : soit je gagne, soit j'apprends. »* — Nelson Mandela
 
 </div>
 
