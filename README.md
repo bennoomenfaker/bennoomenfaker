@@ -116,8 +116,4 @@ Plateforme complète de **veille stratégique** (technologique, concurrentielle,
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bennoomenfaker&show_icons=true&theme=default&count_private=true"/>
-</p>
-
 <p align="center"><i>© 2026 Faker BEN NOOMEN — Toujours en train de construire, d'apprendre et d'innover.</i></p>
