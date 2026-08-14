@@ -28,10 +28,10 @@
 const faker = {
   role:      "Développeur Full Stack",
   location:  "🇹🇳 Tunis, Tunisie",
+  mission:   "Transformer la donnée en décision stratégique",
   focus:     ["Plateformes web", "Veille & Intelligence Compétitive", "Data & IA"],
-  loves:     ["NestJS", "React", "Spring Boot", "Machine Learning", "Open Source"],
-  currently: "Master VIC — Veille & Intelligence Compétitive (ESEN Manouba × ISCAE Manouba)",
-  motto:     "Build it clean, ship it fast, scale it right.",
+  method:    "Collecter → Corriger → Enrichir (IA) → Décider",
+  motto:     "Données fiables, décisions éclairées.",
 };
 ```
 
@@ -117,11 +117,7 @@ Ma signature : **ne pas croire les données sur parole**. Dans l'étude Startup 
 <!-- ====================== PROJECTS ====================== -->
 ## 🚀 Projets phares
 
-```bash
-$ git log --author="bennoomenfaker" --oneline --shortstat
-★  vic-2026-startup-act      étude quantitative des 85 sessions de labellisation Startup Act (2019-2026)
-★  veille-stratégique-ia     plateforme de veille stratégique augmentée par l'IA (Ollama / Mistral / Groq)
-```
+Deux plateformes **réelles, déployées et en ligne** — chacune illustre ma méthode : collecter des données réelles, les fiabiliser, les enrichir par IA, puis les transformer en **tableaux de bord stratégiques**.
 
 <div align="center">
 
@@ -189,7 +185,7 @@ Veille (technologique, concurrentielle, réglementaire…) : objectifs, axes et 
 ```bash
 $ echo "Construisons quelque chose de grand ensemble 🚀"
 $ whoami
-> faker-bennoomen · ouvert aux collaborations, open-source & idées SaaS
+> faker-bennoomen · la veille et la donnée au service de la décision
 ```
 
 <div align="center">
